@@ -1,10 +1,10 @@
 #include <stdlib.h>
 #include <time.h>
 #include "holberton.h"
-
 /**
- * main - is a principal function
- * Return: always 0
+ * positive_or_negative - prints asdasdasd asdasdasd asdasd
+ * Return: int
+ * @i: input entire
  */
 void positive_or_negative(int i)
 {
@@ -15,7 +15,7 @@ void positive_or_negative(int i)
 	{
 		printf("%d is positive\n", i);
 	}
-	else if(i == 0)
+	else if (i == 0)
 	{
 		printf("%d is zero\n", i);
 	}
