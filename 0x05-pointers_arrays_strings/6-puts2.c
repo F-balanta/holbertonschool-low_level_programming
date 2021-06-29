@@ -1,4 +1,5 @@
 #include "holberton.h"
+#include <stdio.h>
 /**
  * puts2 - This function that prints every other character of a string.
  * @str: This parameter contain the string
