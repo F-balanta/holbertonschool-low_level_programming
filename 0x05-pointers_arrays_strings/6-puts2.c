@@ -3,7 +3,6 @@
 /**
  * puts2 - This function that prints every other character of a string.
  * @str: This parameter contain the string
- * Return:0
  */
 void puts2(char *str)
 {
