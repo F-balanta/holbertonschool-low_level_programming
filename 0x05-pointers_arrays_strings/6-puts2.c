@@ -1,9 +1,9 @@
-/**
- * puts2 - prints every other character of a string.
- * @str: external input
- * return:(0)
- */
 #include "holberton.h"
+/**
+ * puts2 - This function that prints every other character of a string.
+ * @str: This parameter contain the string
+ * Return:0
+ */
 void puts2(char *str)
 {
 	int i = 0, j = 0;
@@ -18,6 +18,5 @@ void puts2(char *str)
 		_putchar (str[j]);
 	}
 	_putchar (10);
-
 
 }
