@@ -1,4 +1,4 @@
-![Holberton logo (https://www.holbertonschool.com/co/es)](https://www.holbertonschool.com/holberton-logo.png)
+![Holberton logo (https://www.holbertonschool.com)](https://www.holbertonschool.com/holberton-logo.png)
 
 # Hello guys  welcome to the directory 0x08-recursion
 
