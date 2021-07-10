@@ -1,14 +1,14 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
- *
- *
- *
- *
+ * main - This program  adds positive numbers.
+ * @argc: Amount arguments
+ * @argv: Array of arguments
+ * Return: Always 0
  */
 int main(int argc, char *argv[])
 {
-	int number, sum = 0,is_d;
+	int number, sum = 0, is_d;
 
 	for (number = 1; number < argc; number++)
 	{
